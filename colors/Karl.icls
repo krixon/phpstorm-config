@@ -9,19 +9,21 @@
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="417940" />
     <option name="CARET_COLOR" value="fdf6e3" />
     <option name="CARET_ROW_COLOR" value="303030" />
+    <option name="DELETED_LINES_COLOR" value="832722" />
     <option name="GUTTER_BACKGROUND" value="202020" />
     <option name="INDENT_GUIDE" value="404040" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
     <option name="METHOD_SEPARATORS_COLOR" value="404040" />
+    <option name="MODIFIED_LINES_COLOR" value="40719c" />
     <option name="RIGHT_MARGIN_COLOR" value="404040" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTION_BACKGROUND" value="18557d" />
     <option name="WHITESPACES" value="444444" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="835726" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -153,6 +155,30 @@
       <value>
         <option name="FOREGROUND" value="93cb3e" />
         <option name="EFFECT_COLOR" value="375c23" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="501c18" />
+        <option name="ERROR_STRIPE_COLOR" value="832722" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="3b3d3d" />
+        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="1d3a24" />
+        <option name="ERROR_STRIPE_COLOR" value="417940" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="375170" />
+        <option name="ERROR_STRIPE_COLOR" value="40719c" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
