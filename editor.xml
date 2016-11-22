@@ -5,14 +5,14 @@
   </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="a8c023" />
+      <option name="FOREGROUND" value="859900" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="ERROR_STRIPE_COLOR" value="859900" />
     </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="a8c023" />
+    <pattern icon="important" useCustomColors="true" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="da311c" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="ERROR_STRIPE_COLOR" value="da311c" />
     </pattern>
   </component>
   <component name="XmlEditorOptions">
