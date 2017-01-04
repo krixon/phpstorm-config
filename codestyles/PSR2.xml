@@ -13,6 +13,7 @@
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="SPACE_BEFORE_COLON_IN_RETURN_TYPE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
