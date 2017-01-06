@@ -2,14 +2,11 @@
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="859900" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="859900" />
-    </pattern>
-    <pattern icon="important" useCustomColors="true" case-sensitive="false" pattern="\bfixme\b.*">
+    <pattern pattern="\btodo\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bfixme\b.*">
       <option name="FOREGROUND" value="da311c" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="da311c" />
