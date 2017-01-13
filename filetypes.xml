@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="db3" type="PLAIN_TEXT" />
       <mapping ext="migration" type="SQL" />
       <mapping pattern="*.yml.dist" type="YAML" />
     </extensionMap>
