@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="migration" type="SQL" />
+      <mapping pattern="*.yml.dist" type="YAML" />
     </extensionMap>
   </component>
 </application>
