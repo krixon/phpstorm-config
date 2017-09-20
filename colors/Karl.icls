@@ -62,6 +62,11 @@
         <option name="FOREGROUND" value="b5b5b5" />
       </value>
     </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="637d1f" />
+      </value>
+    </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a776be" />
@@ -79,7 +84,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d6c947" />
+        <option name="FOREGROUND" value="958f34" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
