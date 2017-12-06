@@ -14,6 +14,10 @@
           <option name="url" value="git@github.com:ryanwinchester/netsuite-php.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.edigitalresearch.com:7999/sys/dataexporter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/mnt/data/Projects/maru" />
