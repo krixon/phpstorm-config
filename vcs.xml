@@ -18,11 +18,12 @@
           <option name="url" value="ssh://git@stash.edigitalresearch.com:7999/sys/dataexporter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@code.maruhub.com:7999/lib/bootstrap3-panelsite.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/mnt/data/Projects/maru" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="/mnt/data/code/edr" />
   </component>
 </application>
