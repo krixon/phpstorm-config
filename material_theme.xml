@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="22bab7f6:1689e15870e:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>
