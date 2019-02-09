@@ -6,6 +6,7 @@
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="mocksess" type="PLAIN_TEXT" />
       <mapping ext="db3" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="migration" type="SQL" />
