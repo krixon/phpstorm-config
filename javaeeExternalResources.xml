@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://schema.phpunit.de/4.5/phpunit.xsd" location="$USER_HOME$/.PhpStorm2017.2/system/extResources/17eb8f02_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/6.1/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/11964980_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/6.5/phpunit.xsd" location="$USER_HOME$/.PhpStorm2019.1/system/extResources/cba26384_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/7.1/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/6b71b3c1_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/7.2/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/59f4ba42_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/7.3/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/4877c0c3_phpunit.xsd" />
