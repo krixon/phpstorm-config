@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.env.dist" type=".env file" />
+      <mapping pattern="SENTRY_DSN" type="PLAIN_TEXT" />
       <mapping pattern="docker-env" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="SENTRY_DSN" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="mocksess" type="PLAIN_TEXT" />
       <mapping ext="db3" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="migration" type="SQL" />
       <mapping pattern="*.xml.dist" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
