@@ -9,5 +9,9 @@
     <resource url="http://schema.phpunit.de/7.4/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/36fac744_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/7.5/phpunit.xsd" location="$USER_HOME$/.PhpStorm2019.1/system/extResources/257dcdc5_phpunit.xsd" />
     <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.PhpStorm2017.2/system/extResources/631eabe6_XMLSchema-instance.xml" />
+    <resource url="https://schema.phpunit.de/6.3/phpunit.xsd" location="$USER_HOME$/.PhpStorm2019.1/system/extResources/dac22165_phpunit.xsd" />
+    <resource url="https://schema.phpunit.de/7.1/phpunit.xsd" location="$USER_HOME$/.PhpStorm2019.1/system/extResources/57977ea4_phpunit.xsd" />
+    <resource url="https://schema.phpunit.de/7.4/phpunit.xsd" location="$USER_HOME$/.PhpStorm2019.1/system/extResources/23209227_phpunit.xsd" />
+    <resource url="https://schema.phpunit.de/7.5/phpunit.xsd" location="$USER_HOME$/.PhpStorm2019.1/system/extResources/11a398a8_phpunit.xsd" />
   </component>
 </application>
